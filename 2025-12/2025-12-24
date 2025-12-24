@@ -1,0 +1,47 @@
+# [2025-12-24] 첫째
+
+## ☀️ 오늘의 목표 (Scrum)
+
+> git 사용법
+> github 사용법
+- [ git 기본명령어 습득 ]  목표 1
+- [ github CLI 숙지 ]  목표 2
+
+## 📝 배운 내용 (Today I Learned)
+
+### 주제 1 git란
+
+- 분산 버전 관리 시스템
+- version, config, init, add, commit, branch, head, remote, merge, push, pull 등 명령어
+
+```
+// 필요하다면 코드 블럭을 활용하세요
+console.log("Hello, TIL!");
+
+```
+
+### 주제 2 github CLI
+
+- 명령줄 환경 작업 자동화 오픈 소스 도구
+- Repository 관리
+- 보안 인증, 인가의 차이
+- github secrets
+
+## 🔥 도전 과제 & 해결 (Challenge & Solution)
+
+> 브렌치의 개념.
+> push 명령어로 로컬에서 웹으로 파일 업로드
+> git bash에서 명령어로 폴더 삭제
+- **과제/문제**: branch, switch, add, commit 등 명령어 사용 실습
+- **시도 및 해결**: 명령어 검색하여 폴더 삭제 시도해 보았으나 삭제가 되지 않음.
+
+## 💭 오늘의 회고 (Retrospective)
+
+- **Keep (좋았던 점)**: 그나마 이해가 가는 부분이 있었다.
+- **Problem (아쉬웠던 점)**: 그럼에도 대부분이 너무 생소하다.
+- **Try (시도할 점)**: 열정적인 공부가 필요하다. 근데 안 할 것 같다.
+
+## 🔗 참고 자료 (References)
+
+- [Repository 하위 폴더를 새로운 repository로 이동 — Let's be Developers](https://changsroad.tistory.com/368)
+- [03장. 🌿 Git 브랜치와 병합 실습 가이드 - Pro Git (프로 깃) 2판 – Git 완벽 가이드](https://wikidocs.net/303800)
