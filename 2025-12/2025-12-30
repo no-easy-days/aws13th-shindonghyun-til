@@ -2,7 +2,7 @@
 
 ## ☀️ 오늘의 목표 (Scrum)
 
-> Python 선행학습
+> Python 설치
 > Python 구조, 언어 학습
 
 
@@ -14,10 +14,10 @@
 변수 설정 시 의미 없는 a,b,c 같은 거로 설정하지 말고 name, price 등 누가보더라도 알 수 있도록 설정.
 
         -규칙	                올바른 예	        잘못된 예
-문자 또는 밑줄(_)로 시작	    name, _count	     1name, @user
-숫자로 시작 불가	             user1	            1user
-공백 사용 불가	              user_name	        user name
-예약어 사용 불가	            my_class	      class, if, for
+문자 또는 밑줄(_)로 시작	       name, _count	      1name, @user
+숫자로 시작 불가	          user1	                 1user
+공백 사용 불가	               user_name	        user name
+예약어 사용 불가	        my_class	      class, if, for
 
 print()는 출력 도구, type()은 자료형 확인 도구
 
